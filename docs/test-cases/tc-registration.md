@@ -219,7 +219,7 @@
 | 1 | Enter already taken username | - |
 | 2 | Enter valid unique email | - |
 | 3 | Enter valid matching passwords | - |
-| 4 | Click "Create Account" | Error: "Username already taken" (or similar) |
+| 4 | Click "Create Account" | Error: "Username already exists" (or similar) |
 
 ---
 
