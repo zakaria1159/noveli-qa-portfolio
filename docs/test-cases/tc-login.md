@@ -83,7 +83,7 @@
 |------|--------|-----------------|
 | 1 | Enter username: "fakeuser123" | - |
 | 2 | Enter any password | - |
-| 3 | Click "Log In" button | Error: Generic "Invalid credentials" message |
+| 3 | Click "Log In" button | Error: User not found |
 
 **Note:** Error should NOT reveal whether username exists (security best practice)
 
