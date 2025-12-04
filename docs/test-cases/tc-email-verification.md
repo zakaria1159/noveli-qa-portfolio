@@ -6,8 +6,8 @@
 | **Module** | Authentication |
 | **Feature** | Email Verification |
 | **Jira Task** | SCRUM-19 |
-| **Author** | [Your Name] |
-| **Date** | December 2024 |
+| **Author** | Zakaria Boumarouane |
+| **Date** | December 2025 |
 
 ---
 
