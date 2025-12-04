@@ -203,7 +203,7 @@
 | 1 | Enter valid username | - |
 | 2 | Enter already registered email | - |
 | 3 | Enter valid matching passwords | - |
-| 4 | Click "Create Account" | Error: "Email already in use" (or similar) |
+| 4 | Click "Create Account" | Error: "Email is already registered" |
 
 ---
 
