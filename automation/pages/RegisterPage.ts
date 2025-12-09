@@ -26,4 +26,8 @@ export class RegisterPage {
   async getErrorMessage() {
     return this.page.textContent('.error-message');
   }
+
+  async hasErrorMessage() {
+  return this.page.isVisible('.error-message');
+}
 }

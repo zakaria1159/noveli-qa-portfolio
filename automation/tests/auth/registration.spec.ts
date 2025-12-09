@@ -47,7 +47,7 @@ test.describe('Registration - Exploratory / Special Cases', () => {
       await registerPage.goto();
       await registerPage.fillForm(user.username, user.email, user.password, user.password);
       await registerPage.submit();
-      // Document result manually or assert if app rejects special chars
+      expect(await registerPage.hasErrorMessage()).toBe(false);
     });
   }
 });
