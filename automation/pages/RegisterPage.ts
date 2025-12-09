@@ -24,10 +24,10 @@ export class RegisterPage {
   }
 
   async getErrorMessage() {
-    return this.page.textContent('.error-message');
+    return this.page.textContent('p.text-destructive');
   }
 
   async hasErrorMessage() {
-  return this.page.isVisible('.error-message');
+    return this.page.isVisible('p.text-destructive');
 }
 }
