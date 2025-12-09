@@ -1,6 +1,6 @@
 export const validUser = {
-  username: 'testuser',
-  email: 'test@example.com',
+  username: `testuser_${Date.now()}`,
+  email: `test_${Date.now()}@example.com`,
   password: 'Test123'
 };
 
